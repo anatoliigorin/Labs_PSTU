@@ -1,0 +1,8 @@
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\bin\Debug\DiskrMath1.exe.config
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\bin\Debug\DiskrMath1.exe
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\bin\Debug\DiskrMath1.pdb
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\obj\Debug\DiskrMath1.csproj.AssemblyReference.cache
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\obj\Debug\DiskrMath1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\obj\Debug\DiskrMath1.csproj.CoreCompileInputs.cache
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\obj\Debug\DiskrMath1.exe
+C:\Users\tlkch\OneDrive\Рабочий стол\Учеба\C#\DiskrMath1\obj\Debug\DiskrMath1.pdb
